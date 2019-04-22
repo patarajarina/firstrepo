@@ -25,3 +25,11 @@ Answer set is {1: ['Cacophony', 'Credulous'],
 - The answer should be only ‘a’ or ‘b’ (It’s fine for both lower case and upper case)
 
 4. Provide the correct answer and check if the user gets the right answer or not
+
+# Expected behavior
+
+# test.py
+
+# Contact info.
+Patarajarin Akarapipad
+email: patarajarina@email.arizona.edu
