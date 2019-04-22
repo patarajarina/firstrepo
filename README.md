@@ -22,13 +22,19 @@ Answer set is {1: ['Cacophony', 'Credulous'],
 
 3. Check for bad input:
 - There should be 5 answers, corresponding to the number of the questions
-- The answer should be only ‘a’ or ‘b’ (It’s fine for both lower case and upper case)
+- The answer should be only ‘a’ or ‘b’ (Should accept both lower case and upper case)
 
 4. Provide the correct answer and check if the user gets the right answer or not
 
 # Expected behavior
+Usage statement
+
+Handle bad inputs
+
+Handle appropriate input
 
 # test.py
+You have been provide a Makefile that will run a test suit. Shown below is how it should look like after all tests pass.
 
 # Contact info.
 Patarajarin Akarapipad
