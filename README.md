@@ -5,21 +5,21 @@ This program aims to create GRE vocabulary test. You can get sets of word-defini
 1. Sets of data:
 
 Question set is 
-'''python
+```python
 {'Cacophony': 'A harsh, discordant mixture of sounds',
 'Fallow': 'Inactive',
 'Grovel': 'Act in an obsequious manner in order to obtain someone\'s forgiveness or favor',
 'Loll': 'Sit, lie, or stand in a lazy, relaxed way',
 'Plethora': 'A large or excessive amount'}
-'''
+```
 Answer set is 
-'''python
+```python
 {1: ['Cacophony', 'Credulous'],
  2: ['Acerbic', 'Fallow'],
  3: ['Waft', 'Grovel'],
  4: ['Loll', 'Tawdry'],
  5: ['Prophetic', 'Plethora']}
-'''
+```
 2. Provide usage statement that also show all questions at once
 
 3. Check for bad input:
