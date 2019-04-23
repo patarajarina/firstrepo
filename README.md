@@ -107,3 +107,6 @@ test.py::test_voc PASSED                                                     [10
 ## Contact info.
 Patarajarin Akarapipad
 email: patarajarina@email.arizona.edu
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
