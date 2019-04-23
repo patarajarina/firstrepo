@@ -13,7 +13,7 @@ Question set is
 'Plethora': 'A large or excessive amount'}
 ```
 Answer set is 
-```python
+```
 {1: ['Cacophony', 'Credulous'],
  2: ['Acerbic', 'Fallow'],
  3: ['Waft', 'Grovel'],
@@ -30,7 +30,7 @@ Answer set is
 
 # Expected behavior
 Usage statement
-```python
+```
 $ ./grevocabtest.py
 Usage: grevocabtest.py Choose the correct answer (A or B) for questions below...
 
@@ -51,7 +51,7 @@ A: Prophetic        B: Plethora
 
 ```
 Handle bad inputs
-```python
+```
 $ ./grevocabtest.py aab
 Please enter all 5 answers.
 
@@ -60,7 +60,7 @@ Please enter A[a] or B[b] for the answer.
 ```
 
 Handle appropriate input
-```python
+```
 $ ./grevocabtest.py ababa
 Cacophony: A harsh, discordant mixture of sounds
 A is a correct answer
@@ -86,7 +86,7 @@ You missed, loser!!!
 
 # test.py
 You have been provide a Makefile that will run a test suit. Shown below is how it should look like after all tests pass.
-```python
+```
 $ make test
 pytest -v test.py
 =============================== test session starts ================================
